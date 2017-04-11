@@ -1,0 +1,69 @@
+
+body {
+	background-color: gray;
+}
+.topnav2 {
+	margin-top: 20px;
+	margin-right: 200px;
+	float: right;
+	display: block;
+	color: #4aaaa5;
+	text-align: center;
+	padding: 14px 16px;
+}
+.navl {
+	padding: 30px;
+}
+.color-heading{
+	position: fixed;
+	margin-left: 150px;
+	background-color: #4aaaa5;
+	width: 200px;
+	height:  80px;
+}
+.topnav {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	width: 100%;
+	height: 80px;
+	z-index: -1;
+	background-color: white;
+}
+.port {
+	position: fixed;
+	top: 80px;
+	left: 0px;
+	right: 0px;
+	width: 100%;
+	height: 500px;
+	z-index: -2;
+	background-color: grey;
+}
+.navl {
+	display: inline;
+	float: right;
+	padding: 10px;
+	color: blue;
+}
+h1{
+	text-align: center;
+	background-color: #4aaaa5;
+	color: white;
+}
+
+.port-list {
+	background-color: white;
+	width: 40%;
+	height: 100%;
+	margin-left: 150px;
+}
+
+.connect {
+	width: 250px;
+	float: right;
+	margin-right: 400px;
+	margin-top: -300px;
+	background-color: white;
+}
